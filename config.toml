@@ -11,7 +11,7 @@ pygmentsstyle = "colorful"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-googleAnalytics = ""
+googleAnalytics = "UA-42954847-1"
 
 [taxonomies]
 	tag = "tags"

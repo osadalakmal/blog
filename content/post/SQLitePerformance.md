@@ -1,7 +1,7 @@
 ---
 title: "SQLite for High Throughput Applications"
 date: 2021-01-30T15:27:50+05:30
-draft: true
+draft: false
 ---
 
 SQLite is an embedded SQL Library. This means that It is a single library that you link against and now your application has access to a full blown SQL server within the process itself. It does not need a separate tool to access the database. The database is a single file stored on Disk. It also comes with a binary that can read and manipulate databases
@@ -41,6 +41,14 @@ The full source code for this example can be found in https://github.com/osadala
 The main code is as follows
 
 {{< gist-it user="osadalakmal" file="sqlite-performance/blob/main/test.cpp">}}
+
+### Results
+
+The results can be seen here running on my laptop
+
+![sqlite-performance](/img/sqlite-performance.png)
+
+as you can see starting from a baseline of using just prepared queries we keep adding the options mentioned above. By far the biggest impact seems to be from stopping syncrhonous write to disk for db file.
 
 ### Alternatives to SQLite
 
