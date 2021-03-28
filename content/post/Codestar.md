@@ -1,7 +1,7 @@
 ---
 title: "Codestar - A new way to get started on AWS Projects"
 date: 2021-03-28T20:08:50+05:30
-draft: true
+draft: false
 ---
 
 ## Codestar - A new approach to development on AWS
