@@ -1,1 +1,1 @@
-# blog
+# [blog](https://osadalakmal.com)
