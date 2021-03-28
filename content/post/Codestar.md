@@ -30,7 +30,7 @@ And these are all the different resources that are created by the codestar tool.
 
 ![CodeBuild](/img/codebuild-1.png)
 
-This is my first time seeing AWS CodeBuild and it seems usable enough and easy enough to navigate for even a first timer like me. I have been an avid user of Jenkins and CircleCI for the most part of my carrer. Lately I have been toying around with Gitlab and Github built in automation frameworks. Compared to them Codebuild does seem to have a lot more room for growth. But it seems promising enough to warrent a post of its own.
+This is my first time seeing AWS CodeBuild and it seems usable enough and easy enough to navigate for even a first timer like me. I have been an avid user of Jenkins and CircleCI for the most part of my career. Lately I have been toying around with Gitlab and Github built in automation frameworks. Compared to them Codebuild does seem to have a lot more room for growth. But it seems promising enough to warrant a post of its own.
 
 ![CodeDeploy](/img/codedeploy-1.png)
 
@@ -38,9 +38,9 @@ Codedeploy is probably the one part of the puzzle that I took the least effort t
 
 ![CodePipeline](/img/codepipeline-1.png)
 
-And together CodeBuild and CodeDeploy form CodePipeline. The CI/CD solution on AWS. Again compared to something like Jenkins it seems to leave a lot to desire but for the task at hand it seems to work pretty well. And best of all I didnt have to create any of it!
+And together CodeBuild and CodeDeploy form CodePipeline. The CI/CD solution on AWS. Again compared to something like Jenkins it seems to leave a lot to desire but for the task at hand it seems to work pretty well. And best of all I didn't have to create any of it!
 
-So there it is. The application was created, built and deployed all within the space of a few minutes. Here is a smple REST request
+So there it is. The application was created, built and deployed all within the space of a few minutes. Here is a simple REST request
 
 ![REST-Codestar](/img/REST-codestar-1.png)
 
