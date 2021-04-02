@@ -10,3 +10,14 @@ I first heard of cloud9 before it was acquired by AWS in 2016. In those days it 
 
 Cloud9 was originally founded in 2010 and created the open source product. This was then acquired by Amazon and turned in to their own offering of a cloud IDE running on EC2.
 
+### Provisioning a developer environment
+
+The IDE itself is actually free. What you pay for is the environment that it runs on. Lets see how to provision one of these. Go to cloud9 on the management console and start spinning up an environment and you are presented with the initial screen.
+![](/img/cloud9-1.png)
+
+After that you get to choose the environment that you run the cloud9 IDE on. I am of course choosing a t2.micro so that I can use the free tier for it.
+![](/img/cloud9-2.png)
+
+Finally you get to review and approve the request.
+![](/img/cloud9-3.png)
+
