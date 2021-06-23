@@ -1,3 +1,8 @@
+---
+title: "Adventures in WSL Land"
+date: 2021-06-16T12:00:05+0530
+draft: false
+---
 # Adventures in WSL Land
 
 Recently I have joined a new company and as almost always is the case ( at least in Sri Lanka ) I received a laptop
