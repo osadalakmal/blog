@@ -3,7 +3,7 @@ languageCode = "en-gb"
 defaultContentLanguage = "en"
 author = "Osada Lakmal Paranaliyanage"
 title = "Curiously Recurring Thoughts in Programming"
-theme = "hugo-vitae"
+theme = "uBlogger"
 paginate = 10
 enableRobotsTXT = true
 
@@ -19,6 +19,9 @@ googleAnalytics = "UA-42954847-1"
 	series = "series"
 
 [params]
+    # uBlogger theme version
+    version = "2.0.X"
+	
 	# Use homepage.md instead of a list of posts
 	homepage = false
 
@@ -118,3 +121,14 @@ url = "https://github.com/osadalakmal"
 name = "RSS"
 icon = "fas fa-rss"
 url = "/index.xml"
+
+
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration
+    noClasses = false
+
+[markup.goldmark.renderer]
+hardWraps = true
