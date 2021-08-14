@@ -1,6 +1,6 @@
 ---
 title: "Not your grandmas' docker - Part 1"
-date: 2021-03-28T20:08:50+05:30
+date: 2021-08-14T20:08:50+05:30
 draft: false
 ---
 
