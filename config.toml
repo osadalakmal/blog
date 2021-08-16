@@ -122,6 +122,8 @@ name = "RSS"
 icon = "fas fa-rss"
 url = "/index.xml"
 
+[[params.Social.Twitter]]
+creator = "osada_lakmal"
 
 # Markup related configuration in Hugo
 [markup]
