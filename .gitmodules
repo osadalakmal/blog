@@ -6,3 +6,6 @@
 	path = themes/hugo-vitae
 	url = https://github.com/datacobra/hugo-vitae.git
 	branch = master
+[submodule "themes/uBlogger"]
+	path = themes/uBlogger
+	url = https://github.com/upagge/uBlogger.git
