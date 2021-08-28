@@ -2,10 +2,6 @@
 	path = public
 	url = https://github.com/osadalakmal/osadalakmal.github.io.git
 	branch = main
-[submodule "themes/hugo-vitae"]
-	path = themes/hugo-vitae
-	url = https://github.com/datacobra/hugo-vitae.git
-	branch = master
-[submodule "themes/uBlogger"]
-	path = themes/uBlogger
-	url = https://github.com/upagge/uBlogger.git
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = https://github.com/caijimmy/hugo-theme-stack

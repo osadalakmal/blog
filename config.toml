@@ -3,7 +3,7 @@ languageCode = "en-gb"
 defaultContentLanguage = "en"
 author = "Osada Lakmal Paranaliyanage"
 title = "Curiously Recurring Thoughts in Programming"
-theme = "uBlogger"
+theme = "hugo-theme-stack"
 paginate = 10
 enableRobotsTXT = true
 
@@ -34,9 +34,6 @@ googleAnalytics = "UA-42954847-1"
 	# Add pagetitle to homepage <title> tag
 	# pagetitle = "All about static site generation"
 
-	# Add a subtitle to your website
-	subtitle = "Musings about coding, systems, fatherhood and everything in between."
-
 	# Activate to show authors on pages if available
 	#listAuthor = true
 
@@ -47,10 +44,20 @@ googleAnalytics = "UA-42954847-1"
 	avatar = "/img/profile.jpg"
 
 	# Optional favicons for website
-	#favicon = true
+	favicon = true
 
 	# Add list of sections that should show up on the homepage
-        mainSections = ["post"]
+    mainSections = ["posts"]
+  
+    hidden = [""]
+
+[params.opengraph.twitter]
+site = "osadaparanaliyanage"
+card = "summary_large_image"
+
+[params.defaultImage.opengraph]
+enabled = false
+local = false
 
 	# Add list of Sections/Types that should no be considered by RSS
 	#nofeedSections = ["post"]
@@ -88,7 +95,7 @@ weight = 1
 
 [[menu.main]]
 name = "All Posts"
-url = "/post"
+url = "/posts/"
 weight = 2
 
 [[menu.main]]
@@ -134,3 +141,23 @@ creator = "osada_lakmal"
 
 [markup.goldmark.renderer]
 hardWraps = true
+
+[related]
+includeNewer = false
+threshold = 80
+toLower = false
+[[related.indices]]
+name = 'keywords'
+weight = 100
+[[related.indices]]
+name = 'date'
+weight = 10
+
+[params.sidebar]
+emoji = "🧑‍💻"
+subtitle = "Musings about coding, systems, fatherhood and everything in between."
+
+[params.sidebar.avatar]
+enabled = true
+local = true
+src = "img/profile.jpg"
