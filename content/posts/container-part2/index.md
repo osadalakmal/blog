@@ -23,16 +23,13 @@ share:
   enable: true
 ---
 
-{{< figure src="featured-image.jpg" title="Containers" >}}
-
 {{< table_of_contents >}}
 
 Now that we have discussed the basics of containers, lets dive in to the details. Modern container tooling goes way beyond simply running an OS image in a separate context.
 
 ## Components of the container ecosystem
 
-![Container Ecosystem](/img/)
-\
+![Container Ecosystem](img/DockerEcosystem.png)
 
 ### Container Engines
 

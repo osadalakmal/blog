@@ -25,8 +25,6 @@ share:
   enable: true
 ---
 
-{{< figure src="featured-image.jpg" title="Containers" >}}
-
 {{< table_of_contents >}}
 
 Most of us got introduced to containers with docker. In fact it seems that docker for most intents and purposes and has become synonym with containers. However there is a vast landscape of technology underneath this seemingly simple facade of containers. So lets try and dig in to what a container is before we introduce the tooling that we will be using today.
