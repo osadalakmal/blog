@@ -1,6 +1,6 @@
 ---
 title: "Learning In Engineering Organizations"
-date: 2021-09-25T11:00:50+05:30
+date: 2021-10-14T15:36:00+05:30
 draft: false
 image: "img/learning-in-orgs.jpg"
 author: "Osada Paranaliyanage"
