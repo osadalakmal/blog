@@ -159,5 +159,5 @@ subtitle = "Musings about coding, systems, fatherhood and everything in between.
 
 [params.sidebar.avatar]
 enabled = true
-local = true
-src = "img/profile.jpg"
+local = false
+src = "profile.jpg"
