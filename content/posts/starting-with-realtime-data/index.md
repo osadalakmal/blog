@@ -22,8 +22,6 @@ share:
   enable: true
 ---
 
-# Starting With Realtime Data
-
 > (or why realtime data is elusive in most organizations)
 
 {{< table_of_contents >}}
