@@ -1,7 +1,7 @@
 ---
 title: "Starting With Realtime Data"
 date: 2021-11-20T20:15:01+05:30
-draft: true
+draft: false
 image: realtime-splash.jpg
 author: Osada Paranaliyanage
 description: We discuss how to get started with real time data processing
