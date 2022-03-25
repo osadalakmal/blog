@@ -2,7 +2,7 @@
 title: "Agile : The Snake Oil for Cobra Bites"
 date: 2022-02-06T21:57:42+0530
 draft: false
-image: keep-calm-and-be-agile.webp
+image: agile-poster.jpeg
 author: Osada Paranaliyanage
 description: A critique of agile practices in software development
 theme: full
