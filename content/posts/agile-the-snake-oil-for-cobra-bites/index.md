@@ -2,7 +2,7 @@
 title: "Agile : The Snake Oil for Cobra Bites"
 date: 2022-02-06T21:57:42+0530
 draft: false
-image: 
+image: keep-calm-and-be-agile.webp
 author: Osada Paranaliyanage
 description: A critique of agile practices in software development
 theme: full
@@ -45,9 +45,9 @@ I had heard about the agile movement and I vaguely remember seeing an article by
 
 I encounter agile again somewhere around 2013 when I switch teams within my Org to a mobile application focused team. In addition to using the latest and greatest in technologies in development, this team also was leading the pack in development processes. It was trying to be a thought leader in all these practices that were in with the crowd in those days. The implementation there was quite a stock one. Each team had a scope clearly defined they were responsible for. And the team sizes were just within the limits of what is possible for a normal scrum framework without resorting to SAFe and what not.
 
-The only problem was that there was no real enforcement of continuous improvement. Daily standups of some teams would drag on for 45 minutes and most grooming and planning sessions (which were combined) would consist of - "well you obvisouly know how to get this done right? Just get the changes to services X, Y and Z done by friday". The defining feature of this team was how much deep domain and technical knowledge was still intact. Most of the people there had been there for several years and had written 95% of the stuff that was in production at the time. And the 5% that wasn't written by then had been modified by them to suit the rest of the system. So there was no real planning or grooming needed. Everyone knew who would work on a given piece of work and that person could tell you exactly how long that change would take. So it worked very very well untill it didn't - When us noobs got there. Suddenly there was an influx of people who didn't know the system as well as incumbents and we started having all sorts of issues.
+The only problem was that there was no real enforcement of continuous improvement. Daily standups of some teams would drag on for 45 minutes and most grooming and planning sessions (which were combined) would consist of - "well you obviously know how to get this done right? Just get the changes to services X, Y and Z done by friday". The defining feature of this team was how much deep domain and technical knowledge was still intact. Most of the people there had been there for several years and had written 95% of the stuff that was in production at the time. And the 5% that wasn't written by then had been modified by them to suit the rest of the system. So there was no real planning or grooming needed. Everyone knew who would work on a given piece of work and that person could tell you exactly how long that change would take. So it worked very very well until it didn't - When us noobs got there. Suddenly there was an influx of people who didn't know the system as well as incumbents and we started having all sorts of issues.
 
-When I left that team and headed to my next team, I encountered the best version of agile that I have seen to date. The key was that, the new team was never afraid to change all the rules so that they could make things more efficient. Planning pokers were tried for a few months and found to be ineffective so we got rid of them. Retro's were too long so we shortened them. The Standups were too virtual when done over video every day so we had one always-physical day of standup. And when everything was said and done, we had a very well tuned process and we loved it.
+When I left that team and headed to my next team, I encountered the best version of agile that I have seen to date. The key was that, the new team was never afraid to change all the rules so that they could make things more efficient. Planning pokers were tried for a few months and found to be ineffective so we got rid of them. Retro's were too long so we shortened them. The standups were too virtual when done over video every day so we had one always-physical day of standup. And when everything was said and done, we had a very well tuned process and we loved it.
 
 ## Return to roots
 
@@ -55,7 +55,7 @@ I had returned from UK back to Sri Lanka and started working for a company based
 
 The biggest issue that I had with it, is the amount of pompous ceremonies around it. There will be no way for the designated scrum master to allocate more than 50% of the time to actual business process work by working normally. So inevitably they will turn to working extra hours to catch up. The even worse part was that it was usually the most senior person in the team who will be the scrum master. So not only is the team loosing a really good engineering resource, now he will end up with a burnout after six months.
 
-SAFE also tries to enforce communication lines, streamline them. What it actually end up doing is forcing tribal thinking and create self sabotaging teams. In the end you realize that it is just the traditional way of thinking ( Project -> Program -> Portfolio ) reskinned with a slight agile twist. There is no real effort being made to follow the original agile manifesto in any way, shape or form. So you essentially end up building software the same exact way you did before just with less time and more admin overhead.
+SAFE also tries to enforce communication lines, streamline them. What it actually end up doing is forcing tribal thinking and create self sabotaging teams. In the end you realize that it is just the traditional way of thinking ( Project -> Program -> Portfolio ) re-skinned with a slight agile twist. There is no real effort being made to follow the original agile manifesto in any way, shape or form. So you essentially end up building software the same exact way you did before just with less time and more admin overhead.
 
 ## Why is it so easy to fail?
 
@@ -63,7 +63,7 @@ SAFE also tries to enforce communication lines, streamline them. What it actuall
 
 And my story of agile implementations is no unique in any way. All over the software development firms, the ground truth is that almost all agile implementations have become liabilities that have slowed down deliveries, hampered team plans and frustrated good developers who are being held back by red tape they view and wholly useless. So why don't companies just "do the right thing®" and let the teams be fully agile? Why is it all too easy to fail.
 
-I posit that the reason is the same reason most change management processes fail is the same reason that implementations of agile fail - humans resist change. More the change seems alien to us, the more we resist them. And agile practices, true agile practices are as alien as it gets compared to traditional waterfall practices. And I understand the temptation to seek assurance of waterfall method. waterfall eases the minds of management and it allows business analysts and PMs involved to take as much uncertainity out of the equation as possible. So what ends up happening is that on the very projects that it is supposed to help, the uncertain and hard to plan projects.
+I posit that the reason is the same reason most change management processes fail is the same reason that implementations of agile fail - humans resist change. More the change seems alien to us, the more we resist them. And agile practices, true agile practices are as alien as it gets compared to traditional waterfall practices. And I understand the temptation to seek assurance of waterfall method. waterfall eases the minds of management and it allows business analysts and PMs involved to take as much uncertainty out of the equation as possible. So what ends up happening is that on the very projects that it is supposed to help, the uncertain and hard to plan projects.
 
 ## How to undo this?
 
@@ -77,7 +77,7 @@ I think the key is to build rapport and support before it ever comes to decision
 
 ## Understanding the what, why and how
 
-We should try to get all stakeholders to understand why want a particular agile methodology implemented - maybe it is scrum or maybe it is kanban. Whatever it is, everyone involved should know why they are doing it and not something else. The new guys who joined yesterday should be able to tell you why you are doing kanban and not scrum or waterfall. And you should not require a fifty page brief in order to understand it.
+We should try to get all stakeholders to understand why want a particular agile methodology implemented - maybe it is scrum or maybe it is Kanban. Whatever it is, everyone involved should know why they are doing it and not something else. The new guys who joined yesterday should be able to tell you why you are doing Kanban and not scrum or waterfall. And you should not require a fifty page brief in order to understand it.
 
 ![](postit-note.png)
 
