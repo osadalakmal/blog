@@ -44,7 +44,7 @@ googleAnalytics = "UA-42954847-1"
 	avatar = "/img/profile.jpg"
 
 	# Optional favicons for website
-	favicon = true
+	favicon = "/img/favicon.ico"
 
 	# Add list of sections that should show up on the homepage
     mainSections = ["posts"]
