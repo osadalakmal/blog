@@ -1,10 +1,10 @@
 ---
-title: "Nemawashi - Power of building concensus"
-date: 2021-10-14T15:36:00+05:30
+title: "Nemawashi - Power of building consensus"
+date: 2023-06-23T18:36:00+05:30
 draft: false
 image: "nemawashi-main.jpg"
 author: "Osada Paranaliyanage"
-description: "Post on how to build concensus before the actual decision taking meetings are held. We discuss why this is an essential activity and how to use it to communicate more effectively"
+description: "Post on how to build consensus before the actual decision taking meetings are held. We discuss why this is an essential activity and how to use it to communicate more effectively"
 theme: "full"
 tags: [communication,organizations,project-management]
 categories: [communication]
@@ -25,7 +25,7 @@ share:
   enable: true
 ---
 
-# Nemawashi - Power of building concensus
+# Nemawashi - Power of building consensus
 
 ## Introduction
 
