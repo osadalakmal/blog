@@ -1,7 +1,7 @@
 ---
 title: "Broken Window Theory in Software Teams"
 date: 2023-09-03T10:51:19+01:00
-draft: true
+draft: false
 image: "broken-windows.jpg"
 author: "Osada Paranaliyanage"
 description: "Broken Window theory says broken windows in a neighborhood leads to more crime. What does this mean for software engineering culture."
