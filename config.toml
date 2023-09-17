@@ -41,7 +41,7 @@ googleAnalytics = "G-0KDQ9KLJCX"
 	math = true
 
 	# Optional 80x80 avatar image.
-	avatar = "/img/profile.jpg"
+	avatar = "https://osadalakmal.com/profile.jpg"
 
 	# Optional favicons for website
 	favicon = "/img/favicon.ico"
@@ -160,4 +160,4 @@ subtitle = "Musings about coding, systems, fatherhood and everything in between.
 [params.sidebar.avatar]
 enabled = true
 local = false
-src = "profile.jpg"
+src = "https://osadalakmal.com/profile.jpg"
