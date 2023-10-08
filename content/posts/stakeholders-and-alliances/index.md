@@ -1,7 +1,7 @@
 
 ---
 date: 2023-10-08T10:51:19+01:00
-draft: true
+draft: false
 image: "working-together.jpg"
 title: "Stakeholder Management and Alliance Forming"
 author: "Osada Paranaliyanage"
