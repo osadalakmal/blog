@@ -1,7 +1,31 @@
 
 ---
+title: ""
+date: 2023-10-08T10:51:19+01:00
+draft: false
+image: "broken-windows.jpg"
+author: "Osada Paranaliyanage"
+description: "Exploring the importance of stakeholder management and forming strategic alliances in the context of software engineering leadership."
+theme: "full"
+tags: [engineering-culture, engineering-excellence, engineering-leadership]
+categories: [engineering-leadership]
+
+ruby: false
+fraction: false
+fontawesome: false
+linkToMarkdown: false
+rssFullText: false
+
+toc:
+  enable: true
+  auto: true
+code:
+  copy: true
+share:
+  enable: true
 ---
-# Stakeholders and Alliances
+
+{{< table_of_contents >}}# Stakeholders and Alliances
 
 ## On new beginnings, old dogs and new tricks
 
@@ -25,17 +49,45 @@ Now I am not going to tell you what stakeholder management is or how to do it. T
 
 1. Understand what motivates people. Understand what is important to them
     This is the most important thing of all. And the text books will usually skip this because it may not be acceptable in a corporate environment to admit that not all parts of an oraganization will work towards the same goal. But the simple truth is that they do not. Maybe one team lacks the required resources so maybe their focus is on reducing the workload as much as possible so they will have some hope of maintaining a work life balance. Maybe one team is led by someone who is looking for a promotion next year so they are focused on catching all the low hanging fruit they can get their hands on. The motivations differ but the pattern stays the same. Understand the motivation and you understand how to get them to do what you want.
+    
 2. Use this knowledge to make sure their goals are alignd or at least point in the same direction as you
     This does not necessarily have to mean that you convince them your goals are the best so they should adopt them. This does mean that you create an incentive structure for them that means ultimately giving your  team the facilitation required to do their job gets them further along on the path to their goals. This might mean making sure they get easier work from you or you work extra hard to make sure you get the news of all of the _great work_ that they are doing to senior management.
-    Say for example the teamy you are working with is a cyber security team that has a mandate for making sure that all the systems in the enerprise gets characterized according to the risk level a penetraton would pose. Maybe they use this to improve the overall security posture of the org. You can make sure you always pre-label your systems to make their job easier
+    Say for example the teamy you are working with is a cyber security team that has a mandate for making sure that all the systems in the enerprise gets characterized according to the risk level a penetraton would pose. Maybe they use this to improve the overall security posture of the org. You can make sure you always pre-label your systems to make their job easier. You can help them convince other teams the value of this and evangelize this work. You can create little tools that may help this work. All of this is to make sure that they understand that their goals and yours are aligned.
+    
 3. In the long run if your goals are not aligned, the best thing to do is remove the need to coordination.
     The above steps are good as long as there is no long term misalignment between your goals and theirs. But when there are, this means that you will be expending more energy trying to get people to do their own jobs than you are expending energy to do your own job. This is not a heathy place to be. This when you should stop trying to build alliances and just try to move your dependency off them. This can take the form of outsourcing things done by this particular team currently. This can also mean that you get a new team allocated to you. Perhaps an option is to bring that function in to your team and stop depending on an external team. Whatever form this action takes, the end result must be the same. Your dependency on the external team is removed or reduced so that stakeholder management stops being the obstacle that it has been.
     I have had to do the same when it turned out an IT support team within our organization was incapable of being responsive as much as we wanted them to be. They were responsible for infrastructure provisioning and even though they were on public cloud, provisioning a simple 2 tier app stack took weeks. The reason was were were not the companies main product line and thus features very less in their own KPIs. So we were never a priority for them. Once we outsourced it, we were always the priority since we were paying the bill.
 
+## Alliances
+
+Once you have the basic stakeholder management practices in place, it is important to form strategic alliances. These maybe explicit or implicit, it does not really matter. What matters is that you and the other team lead have a common understanding of where you want your mutual organizations to end up in and what each of you are doing in order to achieve that. This kind of partnership allows you to move fast and take decisions that otherwise will have to go through numerous catch ups and sign off meetings. When you have formed an alliance you have an implicit trust put in place that allows you to take a decision almost unilaterally and have your allies interpret this in the best light possible rather than assume worst.
+
+This is the most important outcome you want. If you get stuck in the quagmire of committee based decision making or you need to run to your common superior every time you need to take a decision, you will not be going anywhere in a hurry. If you are to move fast, you need this essential to be in place.
+
+And there is one very important side effect of this - now you have a rant buddy. Day not going well - rant to your ally. Latest strategic plan stuck in committee - rant to your ally. You can do this safely in the knowledge that as long as you both agree on the goals of your organization, you can complain about not achieving your goals to each other. Considering how lonely team leaderships and management positions can be, this can be a lifeline!
+
+## Actionable Steps
+
+To effectively implement stakeholder management and alliance building, consider the following steps:
+
+1. **Identify Stakeholders**: Understand, identify, and list down the key stakeholders who matter to your team.
+
+2. **Define Their Goals**: List the goals and objectives of these stakeholders to gain a better understanding of their priorities.
+
+3. **Initiate Communication**: Schedule an initial catch-up meeting with stakeholders to ensure alignment and confirm their goals. Ask open-ended questions like, "Is this still a priority for your team? How can we assist in achieving it?"
+
+4. **Communicate Internally**: Share the updated stakeholder goals and details with other senior team members to ensure everyone is on the same page.
+
+5. **Strategic Planning**: Determine your future actions using an appropriate stakeholder management model or framework.
+
+By following these steps, you'll be well-prepared to navigate the complex world of stakeholder management and build effective alliances for your organization's success.
+
+
 ## Last thoughts
 
 Stakeholder management is a complex and intricate subjects. There are all kinds of academic theories of how this is supposed to work - from [onion diagrams](https://www.researchgate.net/publication/220920774_A_Better_Fit_-_Characterising_the_Stakeholders) to [quadrant based analysis](https://www.pmi.org/learning/library/stakeholder-analysis-pivotal-practice-projects-8905). It does not really matter which model you use to start with as long as 
+
 1. you understand the need to stakeholder management and alliance building
 2. you do not hold dogmatically on to one model
 
-Once you have above two traits, you are set to navigate this complex subject space and put what you have learned to use
+Once you have above two traits, you are set to navigate this complex subject space and put what you have learned to use.
