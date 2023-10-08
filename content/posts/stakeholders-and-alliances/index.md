@@ -2,8 +2,8 @@
 ---
 title: ""
 date: 2023-10-08T10:51:19+01:00
-draft: false
-image: "broken-windows.jpg"
+draft: true
+image: "working-together.jpg"
 author: "Osada Paranaliyanage"
 description: "Exploring the importance of stakeholder management and forming strategic alliances in the context of software engineering leadership."
 theme: "full"
