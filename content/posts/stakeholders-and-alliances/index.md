@@ -1,9 +1,9 @@
 
 ---
-title: ""
 date: 2023-10-08T10:51:19+01:00
 draft: true
 image: "working-together.jpg"
+title: "Stakeholder Management and Alliance Forming"
 author: "Osada Paranaliyanage"
 description: "Exploring the importance of stakeholder management and forming strategic alliances in the context of software engineering leadership."
 theme: "full"
@@ -25,38 +25,53 @@ share:
   enable: true
 ---
 
-{{< table_of_contents >}}# Stakeholders and Alliances
+{{< table_of_contents >}}
+
+# Stakeholders and Alliances
 
 ## On new beginnings, old dogs and new tricks
 
-I had just started my second job as a manager of a software programme developing several mobile applications and supporting data analytics software. I had an interview with  the very senior leader of the company before officially getting the position.  I was being vetted because this was a senior engineering manager position and carried a fair amount of responsibilities with it. If successful I would oversee and be accountable for delivery of the whole technical estate including the consumer facing software, supporting IT systems and backend LOB software. I felt like this was a lot of responsibility and it was. And I remember being very stressed out about the interview and what it would be like. I have never been interviewed by a CXO level executive before so I had no idea what to expect. I did not even know what would be asked because it seemed like his remit was so much beyond what I was used to handling. This would be my first project of this scope - an actual bona-fide programme f work instead of a single project.
+It was a couple of years back and I had just embarked on a new role as a Solution Architect and Engineering Manager for a significant program. My responsibilities included overseeing the development of mobile apps and data analytics software. Before officially taking the reins, I faced a pivotal interview with a CXO level senior leader. This role came with hefty responsibilities, overseeing our technical portfolio, including customer-facing software, IT systems, and backend LOB software. It marked a significant transition from my previous roles – from managing single projects to overseeing an entire program.
 
-I expected fully to be stumped by the questions but strangely it turned out most of the questions were straightforward to answer. And then came the most interesting question of all. And as it turned out, the one that actually did stump me and was one thing I had to improve on. He asked me - "Who are your allies in this endeavor ?". I thought for a minute and replied back with a full list of everyone on our senior team - a group of about 5 members, a PM, a business manager, a product manager and an operations manager. As it turn out, that was not the point of the question. As my interviewer then explained he saw a few major stakeholders who scored high for power on the stakeholder quadrant. These almost always were the biggest players in terms of who did most of the supporting IT operations.
+Expecting a grueling interview, most questions turned out to be quite straightforward. However, one question caught me off guard. The senior leader asked, "Who are your allies in this endeavor?" I listed our senior team members: a project manager, business manager, product manager, and operations manager. But that wasn't what the question was about. The senior leader stressed the importance of identifying major stakeholders who had a lot of influence in the stakeholder quadrant—those who played a central role in supporting IT operations.
 
-And we had almost always run in to issues with them. As he explained this, it dawned on me that the biggest obstacle we would face in getting this project off the ground will be this particular team and not actually my team. The actual project team was a very competent, tight knit and high functioning team. We would be pretty ok in terms of getting through our own work. Shortly after this explanation came his one demand - make an alliance, get the work that you need done from them as fast as you can in the short term, and find a way to remove this bottleneck permanently in the longer term. This had been the one thing I had missed the mark on in the interview.
+It dawned on me that the real challenge lay not with my project team, but with the team responsible for supporting IT operations. The senior leader's message was crystal clear: form an alliance, collaborate closely in the short term, and figure out a way to permanently resolve this bottleneck. This was the missing piece of the puzzle.
+
+For a brief moment, I felt out of my depth and vulnerable. I was familiar with programming and systems, but this was entirely new territory. Can an old dog learn new tricks?
 
 ## Stakeholder management
 
-This led me to go on a whirlwind tour of the subject of stakeholder management. After a few linkedin courses and HBR articles later I had started to realize the importance of the senior leader who interviewed me said. I was very focused on how me and my team was going to deliver the product that I had lost sight of how important the rest of the organization was to deliver the product.
+This led me to go on a whirlwind tour of the subject of stakeholder management. After a few linkedin courses and HBR articles later, I had started to realize the importance of the senior leader who interviewed me said. I was very focused on how my team and I were going to deliver the product that I had lost sight of how important the rest of the organization was to deliver the product.
 
-This is true in any organization but specially true in larger organization. There are several departments that specialize in one thing. Which means that to get anything done in such a company you need a few of those organizational units to work together. You may call them departments, divisions etc but whatever the name is the central theme is that in order to do anything useful you have to get them together and work with each other.
+This is true in any organization but specially true in larger organizations. There are several departments that specialize in one thing. Which means that to get anything done in such a company you need a few of those organizational units to work together. You may call them departments, divisions etc but whatever the name is the central theme is that in order to do anything useful you have to get them together and work with each other.
 
-Even in a small organization it is quite likely you will be involved with many functions other than just software development. Everyone from business analysts to delivery management is cruicial to developing a software product. In order to make sure the software product gets made according to the project plan then, we need to make sure that all of these people are on the same page about where the project is currently, where you want to get to and how you will get there. And this requires explicit communication and active stakeholder management
+Even in a small organization it is quite likely you will be involved with many functions other than just software development. Everyone from business analysts to delivery management is crucial to developing a software product. In order to make sure the software product gets made according to the project plan then, we need to make sure that all of these people are on the same page about where the project is currently, where you want to get to and how you will get there. And this requires explicit communication and active stakeholder management
 
 ## What to keep in mind
 
 Now I am not going to tell you what stakeholder management is or how to do it. That you can learn from any number of online or offline resources. What I am going to tell you is what you have to keep in mind practically when doing this.
 
-1. Understand what motivates people. Understand what is important to them
-    This is the most important thing of all. And the text books will usually skip this because it may not be acceptable in a corporate environment to admit that not all parts of an oraganization will work towards the same goal. But the simple truth is that they do not. Maybe one team lacks the required resources so maybe their focus is on reducing the workload as much as possible so they will have some hope of maintaining a work life balance. Maybe one team is led by someone who is looking for a promotion next year so they are focused on catching all the low hanging fruit they can get their hands on. The motivations differ but the pattern stays the same. Understand the motivation and you understand how to get them to do what you want.
+### Understand what motivates people. Understand what is important to them
+
+This is the most important thing of all. And the textbooks will usually skip this because it may not be acceptable in a corporate environment to admit that not all parts of an oraganization will work towards the same goal. But the simple truth is that they do not. 
+
+Maybe one team lacks the required resources so maybe their focus is on reducing the workload as much as possible so they will have some hope of maintaining a work life balance. Maybe one team is led by someone who is looking for a promotion next year so they are focused on catching all the low hanging fruit they can get their hands on. The motivations differ but the pattern stays the same. Understand the motivation and you understand how to get them to do what you want.
     
-2. Use this knowledge to make sure their goals are alignd or at least point in the same direction as you
-    This does not necessarily have to mean that you convince them your goals are the best so they should adopt them. This does mean that you create an incentive structure for them that means ultimately giving your  team the facilitation required to do their job gets them further along on the path to their goals. This might mean making sure they get easier work from you or you work extra hard to make sure you get the news of all of the _great work_ that they are doing to senior management.
-    Say for example the teamy you are working with is a cyber security team that has a mandate for making sure that all the systems in the enerprise gets characterized according to the risk level a penetraton would pose. Maybe they use this to improve the overall security posture of the org. You can make sure you always pre-label your systems to make their job easier. You can help them convince other teams the value of this and evangelize this work. You can create little tools that may help this work. All of this is to make sure that they understand that their goals and yours are aligned.
+### Use this knowledge to make sure their goals are alignd or at least point in the same direction as you
     
-3. In the long run if your goals are not aligned, the best thing to do is remove the need to coordination.
-    The above steps are good as long as there is no long term misalignment between your goals and theirs. But when there are, this means that you will be expending more energy trying to get people to do their own jobs than you are expending energy to do your own job. This is not a heathy place to be. This when you should stop trying to build alliances and just try to move your dependency off them. This can take the form of outsourcing things done by this particular team currently. This can also mean that you get a new team allocated to you. Perhaps an option is to bring that function in to your team and stop depending on an external team. Whatever form this action takes, the end result must be the same. Your dependency on the external team is removed or reduced so that stakeholder management stops being the obstacle that it has been.
-    I have had to do the same when it turned out an IT support team within our organization was incapable of being responsive as much as we wanted them to be. They were responsible for infrastructure provisioning and even though they were on public cloud, provisioning a simple 2 tier app stack took weeks. The reason was were were not the companies main product line and thus features very less in their own KPIs. So we were never a priority for them. Once we outsourced it, we were always the priority since we were paying the bill.
+This does not necessarily have to mean that you convince them your goals are the best so they should adopt them. This involves creating an incentive structure that ultimately helps your team achieve their goals by providing the necessary support. This might mean making sure they get easier work from you or you work extra hard to make sure you get the news of all of the _great work_ that they are doing to senior management.
+
+For example you are working with a cyber security team that has a mandate for making sure that all the systems in the enerprise gets characterized according to the risk level a penetraton would pose. You can make sure you always pre-label your systems to make their job easier. You can help them convince other teams the value of this and evangelize this work. You can create small tools that may help this work. All of this is to make sure that they understand that their goals and yours are aligned.
+    
+### In the long run if your goals are not aligned, the best thing to do is remove the need to coordination.
+
+{{< figure src="escape.jpg" title="Escape Hatch!" attrlink="https://unsplash.com/photos/9Phf8qd1YAg?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash" >}}
+
+The above steps are good as long as there is no long term misalignment between your goals and theirs. But when there are, this means that you will be expending more energy trying to get people to do their own jobs than you are expending energy to do your own job. This is **not a heathy place** to be. 
+
+This is when you should stop trying to build alliances and just try to move your dependency off that particuar team. This can take the form of outsourcing things done by this particular team currently. This can also mean that you get a new team allocated to you. Perhaps an option is to bring that function in to your team and stop depending on an external team. Whatever form this action takes, the end result must be the same. Your dependency on the external team is removed or reduced so that stakeholder management stops being the obstacle that it has been.
+
+I have had to do the same when it turned out an IT support team within our organization was incapable of being responsive as much as we wanted them to be. They were responsible for infrastructure provisioning and even though they were on public cloud, provisioning a simple 2 tier app stack took weeks. The reason was were were not the companies main product line and thus features very less in their own KPIs. So we were never a priority for them. Once we outsourced it, we were always the priority since we were paying the bill.
 
 ## Alliances
 
