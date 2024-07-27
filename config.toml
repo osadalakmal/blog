@@ -141,6 +141,7 @@ creator = "osada_lakmal"
 
 [markup.goldmark.renderer]
 hardWraps = true
+unSafe = true
 
 [related]
 includeNewer = false
