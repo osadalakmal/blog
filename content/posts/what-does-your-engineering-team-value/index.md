@@ -1,7 +1,7 @@
 ---
 title: "What Determines Your Engineering Organization's Culture"
 date: 2024-07-25T03:58:57+01:00
-draft: true
+draft: false
 image: "this-is-engineering.jpg"
 author: "Osada Paranaliyanage"
 description: "Exploring what factors determine engineering culture in engineering organizations"
