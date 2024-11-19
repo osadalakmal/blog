@@ -1,1 +1,1 @@
-# [blog](https://osadalakmal.com)
+# [blog](https://osada.blog)
