@@ -69,7 +69,7 @@ Like Bret Victor talks about in his now infamous talk in inventing on principle,
 
 ## Transitioning from Mid to Senior
 
-At every software engineer's professional journey, there will be a time when they transition to being a senior engineer. In my opinion a large part of this is getting rid of the desire to be clever and do smart engineering. We all spent some time in our career being awed by all the amazing clever code we could create with the very sharp tools in our repotire weather that is Template Meta Programming in C++ or Monkey Patching in Python or Ruby. And then we wanted to emulate that and write come clever™ code.
+At every software engineer's professional journey, there will be a time when they transition to being a senior engineer. In my opinion a large part of this is getting rid of the desire to be clever and do smart engineering. We all spent some time in our career being awed by all the amazing clever code we could create with the very sharp tools in our repertoire, whether that is Template Meta Programming in C++ or Monkey Patching in Python or Ruby. And then we wanted to emulate that and write come clever™ code.
 
 There comes a time when we finally understand that it is more important to be understood and write maintainable code than be clever. That's when you learn to be truly lazy and use a very easy to understand subset of the toolbox available to you and realize that this is a feature and not a bug. You don't have to use the full surface area of your language/framework/platform in order to build successful maintainable products. Be a little lazy. Stick to common things.
 
