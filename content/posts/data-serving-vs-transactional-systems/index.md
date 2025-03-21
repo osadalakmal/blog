@@ -1,7 +1,7 @@
 ---
 title: "Data Serving vs Transactional Systems"
 date: 2025-03-08T13:31:56Z
-draft: true
+draft: false
 image: "the-chaffins-Zdf3zn5XXtU-unsplash.jpg"
 author: "Osada Paranaliyanage"
 description: "My transition from a transactional system background to a team managing a data serving platform"
