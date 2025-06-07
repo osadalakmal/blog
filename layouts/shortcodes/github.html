@@ -1,4 +1,9 @@
-{{ $dataJ := getJSON "https://api.github.com/repos/"  (.Get "repo")  "/contents/"  (.Get "file")  }}
-{{ $con := base64Decode $dataJ.content }}
+{{/* New: fetch via resources.GetRemote + ToBytes + transform.Unmarshal */}}
+{{ $result := try (resources.GetRemote (printf "https://api.github.com/repos/%s/contents/%s" (.Get "repo") (.Get "file"))) }}
+{{ with $result.Err }}
+  {{ errorf "GitHub API error: %s" . }}
+{{ end }}
+{{ $dataJ := $result.Value | transform.Unmarshal }}
+{{ $con    := base64Decode $dataJ.content }}
 
 {{ highlight $con (.Get "lang") (.Get "options") }}

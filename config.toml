@@ -3,7 +3,6 @@ languageCode = "en-gb"
 defaultContentLanguage = "en"
 author = "Osada Lakmal Paranaliyanage"
 title = "Curiously Recurring Thoughts in Programming"
-theme = "hugo-theme-stack"
 
 [pagination]
 pagerSize = 10
@@ -165,3 +164,7 @@ subtitle = "Musings about coding, systems, fatherhood and everything in between.
 enabled = true
 local = false
 src = "https://osada.blog/profile.jpg"
+
+[module]
+  [[module.imports]]
+	  path = "github.com/CaiJimmy/hugo-theme-stack/v3"
