@@ -13,45 +13,47 @@ pygmentsstyle = "colorful"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-googleAnalytics = "G-0KDQ9KLJCX"
+[services]
+[services.googleAnalytics]
+id = 'G-0KDQ9KLJCX'
 
 [taxonomies]
-	tag = "tags"
-	category = "categories"
-	series = "series"
+tag = "tags"
+category = "categories"
+series = "series"
 
 [params]
-    # uBlogger theme version
-    version = "2.0.X"
-	
-	# Use homepage.md instead of a list of posts
-	homepage = false
+# uBlogger theme version
+version = "2.0.X"
 
-	# Add meta keywords in head part (Site Keywords or Tags of Page)
-	keywords = ["programming","coding","osada","lakmal"]
+# Use homepage.md instead of a list of posts
+homepage = false
 
-	# Add meta description in head part
-	description = "Blog for personal coding adventures."
+# Add meta keywords in head part (Site Keywords or Tags of Page)
+keywords = ["programming", "coding", "osada", "lakmal"]
 
-	# Add pagetitle to homepage <title> tag
-	# pagetitle = "All about static site generation"
+# Add meta description in head part
+description = "Blog for personal coding adventures."
 
-	# Activate to show authors on pages if available
-	#listAuthor = true
+# Add pagetitle to homepage <title> tag
+# pagetitle = "All about static site generation"
 
-	# Add math typesetting with KaTeX (Global with this Param)
-	math = true
+# Activate to show authors on pages if available
+#listAuthor = true
 
-	# Optional 80x80 avatar image.
-	avatar = "https://osada.blog/profile.jpg"
+# Add math typesetting with KaTeX (Global with this Param)
+math = true
 
-	# Optional favicons for website
-	favicon = "/img/favicon.ico"
+# Optional 80x80 avatar image.
+avatar = "https://osada.blog/profile.jpg"
 
-	# Add list of sections that should show up on the homepage
-    mainSections = ["posts"]
-  
-    hidden = [""]
+# Optional favicons for website
+favicon = "/img/favicon.ico"
+
+# Add list of sections that should show up on the homepage
+mainSections = ["posts"]
+
+hidden = [""]
 
 [params.opengraph.twitter]
 site = "osadaparanaliyanage"
@@ -61,14 +63,14 @@ card = "summary_large_image"
 enabled = false
 local = false
 
-	# Add list of Sections/Types that should no be considered by RSS
-	#nofeedSections = ["post"]
+# Add list of Sections/Types that should no be considered by RSS
+#nofeedSections = ["post"]
 
-	# Deactivate Taxonomies for specific page types
-	#disableTaxoTypes = [""]
+# Deactivate Taxonomies for specific page types
+#disableTaxoTypes = [""]
 
-	# Custom CSS applied to default styles. (Path could be "static/css/")
-	#customCSS = "css/custom.css"
+# Custom CSS applied to default styles. (Path could be "static/css/")
+#customCSS = "css/custom.css"
 
 # Comments
 [params.comments]
@@ -136,10 +138,10 @@ creator = "osada_lakmal"
 
 # Markup related configuration in Hugo
 [markup]
-  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
-  [markup.highlight]
-    # false is a necessary configuration
-    noClasses = false
+# Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+[markup.highlight]
+# false is a necessary configuration
+noClasses = false
 
 [markup.goldmark.renderer]
 hardWraps = true
@@ -166,5 +168,5 @@ local = false
 src = "https://osada.blog/profile.jpg"
 
 [module]
-  [[module.imports]]
-	  path = "github.com/CaiJimmy/hugo-theme-stack/v3"
+[[module.imports]]
+path = "github.com/CaiJimmy/hugo-theme-stack/v3"
