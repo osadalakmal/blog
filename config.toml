@@ -4,7 +4,10 @@ defaultContentLanguage = "en"
 author = "Osada Lakmal Paranaliyanage"
 title = "Curiously Recurring Thoughts in Programming"
 theme = "hugo-theme-stack"
-paginate = 10
+
+[pagination]
+pagerSize = 10
+
 enableRobotsTXT = true
 
 pygmentsstyle = "colorful"
