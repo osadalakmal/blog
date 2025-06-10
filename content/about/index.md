@@ -11,7 +11,7 @@ layout: type
 # Osada Lakmal Paranaliyanage
 
 **Software Engineering Manager | Distributed Systems & DevOps Enthusiast**  
-[LinkedIn](https://www.linkedin.com/in/osadalakmal/) • [Blog: Curiously Recurring Thoughts in Programming](https://osada.blog/)
+[LinkedIn](https://www.linkedin.com/in/osadalakmal/) • [Blog: Curiously Recurring Thoughts in Programming](https://osada.blog/) • [Github](https://github.com/osadalakmal/)
 
 ---
 
