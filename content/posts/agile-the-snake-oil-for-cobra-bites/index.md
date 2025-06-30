@@ -2,7 +2,7 @@
 title: "Agile : The Snake Oil for Cobra Bites"
 date: 2022-02-06T21:57:42+0530
 draft: false
-image: agile-poster.jpeg
+image: agile-poster.webp
 author: Osada Paranaliyanage
 description: A critique of agile practices in software development
 theme: full
@@ -28,7 +28,7 @@ share:
 
 ## The agile manifesto - The Rebellion that was not
 
-![](100-percent-agile.jpeg)
+![](100-percent-agile.webp)
 
 The first time I heard the word agile manifesto was back in 2009. I had just graduated with a degree in Electronic and Telecommunication the previous year. As a wet behind the years novice in the industry I had decided that the best possible career move for me would be to act as a sponge and learn as much as possible from every one I had met online and offline both. This was when Git and Hg was just starting to make inroads in to general developers mind space. It was an exciting time - Android has just been released and our minds were buzzing with the possibilities of smartphones.
 
@@ -41,7 +41,7 @@ I had heard about the agile movement and I vaguely remember seeing an article by
 
 ## The call is coming from inside the house
 
-![](welcome-to-agile.jpg)
+![](welcome-to-agile.webp)
 
 I encounter agile again somewhere around 2013 when I switch teams within my Org to a mobile application focused team. In addition to using the latest and greatest in technologies in development, this team also was leading the pack in development processes. It was trying to be a thought leader in all these practices that were in with the crowd in those days. The implementation there was quite a stock one. Each team had a scope clearly defined they were responsible for. And the team sizes were just within the limits of what is possible for a normal scrum framework without resorting to SAFe and what not.
 
@@ -59,7 +59,7 @@ SAFE also tries to enforce communication lines, streamline them. What it actuall
 
 ## Why is it so easy to fail?
 
-![](kanban-vs-scrum.jpeg)
+![](kanban-vs-scrum.webp)
 
 And my story of agile implementations is no unique in any way. All over the software development firms, the ground truth is that almost all agile implementations have become liabilities that have slowed down deliveries, hampered team plans and frustrated good developers who are being held back by red tape they view and wholly useless. So why don't companies just "do the right thing®" and let the teams be fully agile? Why is it all too easy to fail.
 
@@ -79,7 +79,7 @@ I think the key is to build rapport and support before it ever comes to decision
 
 We should try to get all stakeholders to understand why want a particular agile methodology implemented - maybe it is scrum or maybe it is Kanban. Whatever it is, everyone involved should know why they are doing it and not something else. The new guys who joined yesterday should be able to tell you why you are doing Kanban and not scrum or waterfall. And you should not require a fifty page brief in order to understand it.
 
-![](postit-note.png)
+![](postit-note.webp)
 
 Always make sure you lead with this one. Be sure to compare and contrast with business as usual situation and other competing methodologies. That way everyone will have enough context to know why you are implementing things the way you are.And in the end give them a sense of where you want to end up. And explain that you are not quite there yet. Explain that this is a journey and not a one day task. Your teams wont be fully agile overnight. There will still be hiccups along the way and you will adjust a lot of things, but let them know why it is important and how they can know when they are there. Things will be running smoothly, there will be less admin overhead, the team will settle in to a nice delivery rhythm. Give them enough of an understanding on how to tell when they are doing it right
 

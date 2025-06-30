@@ -40,7 +40,7 @@ It is based on a very simple mental modal and once you have mastered it, it pays
 
 ## C is nice but C++ is nicer
 
-{{< figure src="A12SR71.jpg" title="For every nice thing, there is a nicer thing - A12 vs SR71" >}}
+{{< figure src="A12SR71.webp" title="For every nice thing, there is a nicer thing - A12 vs SR71" >}}
 
 As a user of C++ primarily for 12 years and counting, It brings lots of nice things to the table. Talking about C++ is a topic in and of itself and this margin is definitely not enough large enough to contain those notes. But for the purpose of explaining this post, I will cover the highlights of what it provides over C. 
 

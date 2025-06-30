@@ -2,7 +2,7 @@
 title: "Starting With Realtime Data"
 date: 2021-11-20T20:15:01+05:30
 draft: false
-image: realtime-splash.jpg
+image: realtime-splash.webp
 author: Osada Paranaliyanage
 description: We discuss how to get started with real time data processing
 theme: full
@@ -28,7 +28,7 @@ share:
 
 ## Data, Data and Data
 
-{{< figure src="hand-out-of-water.jpg" title="Drowning in Data but Thirsting for Insights" >}}
+{{< figure src="hand-out-of-water.webp" title="Drowning in Data but Thirsting for Insights" >}}
 
 These days the mantra is always data, data and more data. No organization can apparently get enough of data. And more and more of that data is coming in realtime in streaming systems.
 
@@ -62,7 +62,7 @@ The one source of actual useful realtime information I could find was national r
 
 ## National Rail to the Rescue
 
-{{< figure src="national-rail-realtime.jpg" title="An Unlikely Rescuer" >}}
+{{< figure src="national-rail-realtime.webp" title="An Unlikely Rescuer" >}}
 
 The national rail provides a set of open data feeds and files for anyone who creates a developer account. There are several sets of data in there. The full data can be found at the [wiki](https://wiki.openraildata.com/index.php?title=Darwin:Push_Port). You can sign up for the developer account at [open data portal](https://opendata.nationalrail.co.uk/)
 

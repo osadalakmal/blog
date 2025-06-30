@@ -4,7 +4,7 @@ title: "The Unreasonable Effectiveness of Fundamentals of Computer Science"
 date: 2025-05-05T14:30:00Z
 draft: false
 description: "How core principles of computer science unlock resilient, scalable systems."
-image: "LowLevelToCloud.png"
+image: "LowLevelToCloud.webp"
 author: "Osada Paranaliyanage"
 theme: "full"
 tags: ["computer science", "distributed systems", "engineering principles", "scalability"]

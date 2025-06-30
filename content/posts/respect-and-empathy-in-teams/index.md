@@ -2,7 +2,7 @@
 title: "Empathy and Respect in Software Engineering Teams: Actions for a Team Lead"
 date: 2023-08-29T00:51:19+01:00
 draft: false
-image: "empathy-banner.jpg"
+image: "empathy-banner.webp"
 author: "Osada Paranaliyanage"
 description: "Empathy and Respect are essential ingredients of a high performing software engineering team. We discuss what you can do as a software engineering team lead to foster them in your team."
 theme: "full"

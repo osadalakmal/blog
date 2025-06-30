@@ -2,7 +2,7 @@
 title: "Valkey: The New Redis Alternative"
 date: 2024-11-17T13:29:22Z
 draft: false
-image: "valkey.png"
+image: "valkey.webp"
 author: "Osada Paranaliyanage"
 description: "We consider how to approach implementation of feature flags in a careful "
 theme: "full"

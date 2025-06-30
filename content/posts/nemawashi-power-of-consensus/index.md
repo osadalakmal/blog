@@ -2,7 +2,7 @@
 title: "Nemawashi - Power of building consensus"
 date: 2023-06-23T18:36:00+05:30
 draft: false
-image: "nemawashi-main.jpg"
+image: "nemawashi-main.webp"
 author: "Osada Paranaliyanage"
 description: "Post on how to build consensus before the actual decision taking meetings are held. We discuss why this is an essential activity and how to use it to communicate more effectively"
 theme: "full"
@@ -49,7 +49,7 @@ One of the most famous examples of nemawashi can be found in the decision-making
 
 Teams engage in cross-functional meetings, where representatives from various departments share their perspectives, concerns, and ideas. This process allows for a comprehensive understanding of the issue at hand and helps identify potential obstacles or risks. By incorporating nemawashi, Toyota ensures that decisions are made collaboratively, taking into account the viewpoints of all relevant stakeholders.
 
-![](Nemawashi-japanese-chars.jpg)
+![](Nemawashi-japanese-chars.webp)
 Sidebar: [Read more about Toyota's decision-making process here](https://hbr.org/2011/01/how-toyota-makes-decisions)
 
 ### Example 2: U.S. Government and Legislative Process

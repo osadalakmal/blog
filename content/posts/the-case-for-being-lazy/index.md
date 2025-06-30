@@ -34,7 +34,7 @@ Why did I start this blog post with that detail? Because this has been my go-to 
 
 ## Example 1 : Automate Everything!
 
-![Automate Everything](automate-everything.png)
+![Automate Everything](automate-everything.webp)
 
 TOIL refers to the repetitive, manual, and automatable tasks that are necessary to maintain a service. According to the [Google SRE book](https://sre.google/sre-book/eliminating-toil/), TOIL is work tied to running a production service that tends to be manual, repetitive, automatable, tactical, devoid of enduring value, and that scales linearly as a service grows. Automating TOIL is beneficial because it frees up engineers to focus on more strategic and value-adding activities, reduces human error, and improves the reliability and efficiency of the service. By minimizing TOIL, teams can invest more time in innovation and improving the overall system.
 

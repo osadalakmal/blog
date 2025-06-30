@@ -1,7 +1,7 @@
 ---
 title: "Engineering Standards in Teams"
 date: 2023-09-11T01:38:25+01:00
-image: "scott-graham-5fNmWej4tAA-unsplash.jpg"
+image: "scott-graham-5fNmWej4tAA-unsplash.webp"
 author: "Osada Paranaliyanage"
 description: "Engineering Standards in Software Engineering Teams. Why we need them, how to start."
 theme: "full"
@@ -61,7 +61,7 @@ This allows your team members to concentrate on delivering the actual business v
 
 ## So how would I start implementing engineering standards?
 
-{{< figure src="nick-abrams-FTKfX3xZIcc-unsplash.jpg" title="Slow and Steady" >}}
+{{< figure src="nick-abrams-FTKfX3xZIcc-unsplash.webp" title="Slow and Steady" >}}
 
 1. Slowly.
 2. Deliberately.

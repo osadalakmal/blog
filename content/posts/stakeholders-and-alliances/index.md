@@ -2,7 +2,7 @@
 ---
 date: 2023-10-08T10:51:19+01:00
 draft: false
-image: "working-together.jpg"
+image: "working-together.webp"
 title: "Stakeholder Management and Alliance Forming"
 author: "Osada Paranaliyanage"
 description: "Exploring the importance of stakeholder management and forming strategic alliances in the context of software engineering leadership."
@@ -65,7 +65,7 @@ For example you are working with a cyber security team that has a mandate for ma
     
 ### In the long run if your goals are not aligned, the best thing to do is remove the need to coordination.
 
-{{< figure src="escape.jpg" title="Escape Hatch!" attrlink="https://unsplash.com/photos/9Phf8qd1YAg?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash" >}}
+{{< figure src="escape.webp" title="Escape Hatch!" attrlink="https://unsplash.com/photos/9Phf8qd1YAg?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash" >}}
 
 The above steps are good as long as there is no long term misalignment between your goals and theirs. But when there are, this means that you will be expending more energy trying to get people to do their own jobs than you are expending energy to do your own job. This is **not a heathy place** to be. 
 

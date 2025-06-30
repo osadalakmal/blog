@@ -3,7 +3,7 @@ title: "Project Management for Software Engineers"
 date: 2024-11-23
 draft: false
 description: "Make sense of madness. Managing projects in an agile world"
-image: "daria-nepriakhina-zoCDWPuiRuA-unsplash.jpg"
+image: "daria-nepriakhina-zoCDWPuiRuA-unsplash.webp"
 author: "Osada Paranaliyanage"
 theme: "full"
 tags: ["project management", "software engineering", "stakeholders", "communication", "risk management"]
@@ -48,7 +48,7 @@ The largest part of managing an epic or project is understanding and addressing 
 
 ### The Stakeholder Onion
 
-{{< figure src="stakeholder-onion.jpg" title="Example Stakeholder Onion" >}}
+{{< figure src="stakeholder-onion.webp" title="Example Stakeholder Onion" >}}
 
 The Stakeholder Onion framework helps you understand stakeholder involvement:
 
@@ -61,7 +61,7 @@ Understanding these layers clarifies how and when to engage with each group.
 
 ### Stakeholder Mapping
 
-{{<figure src="stakeholder-quadrant.jpg" title="Stakeholder Mapping Quadrant Diagram">}}
+{{<figure src="stakeholder-quadrant.webp" title="Stakeholder Mapping Quadrant Diagram">}}
 
 Ask the following questions to refine your stakeholder map:
 
@@ -73,7 +73,7 @@ Ask the following questions to refine your stakeholder map:
 
 ### The RACI Matrix
 
-{{<figure src="raci-matrix-example.png" title="Example RACI Matrix" width="75%">}}
+{{<figure src="raci-matrix-example.webp" title="Example RACI Matrix" width="75%">}}
 
 The RACI framework defines clear roles and responsibilities, avoiding confusion:
 

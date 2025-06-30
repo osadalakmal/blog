@@ -2,7 +2,7 @@
 title: "Lies, Damn Lies and Engineering Metrics"
 date: 2023-10-31T21:18:00Z
 draft: false
-image: "banner.jpg"
+image: "banner.webp"
 author: "Osada Paranaliyanage"
 description: "We discuss what engineering metrics are, what function they perform, why they are important. We also discuss why Engineering teams do not usually trust them."
 theme: "full"
@@ -41,7 +41,7 @@ Now, whenever metrics are mentioned people tend to get skeptical and usually wit
 
 A meme that originated on Reddit comes to mind. It featured a dress found in a charity or second-hand shop. What made it notable was the debate surrounding its color. The poster thought it was blue, but a significant number of replies argued it was gold. This seemingly simple question, "Do we all agree on what blue is?" led to a divisive dispute. It may seem strange that a seemingly straightforward matter could be so divisive. After all, defining "blue" isn't a complex concept; even a preschooler could define it confidently.
 
-{{< figure src="The_dress_blueblackwhitegold.jpg" title="The controversial dress in question" link="https://en.wikipedia.org/wiki/The_dress">}}
+{{< figure src="The_dress_blueblackwhitegold.webp" title="The controversial dress in question" link="https://en.wikipedia.org/wiki/The_dress">}}
 
 This story illustrates how challenging it is to reach a consensus, even on straightforward matters, within a group. Now, imagine trying to measure things like software engineering team or organizational performance and achieve a consensus within your entire organization on whether engineering is doing a good job or not. Let's heed the lesson of the blue/gold dress people!
 

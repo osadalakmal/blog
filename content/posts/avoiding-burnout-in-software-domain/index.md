@@ -2,7 +2,7 @@
 title: "Avoiding burnout in software domain"
 date: 2022-05-09T00:35:34+0530
 draft: false
-image: young-woman-eyes-closed-hand-on-forehead-768.jpg
+image: young-woman-eyes-closed-hand-on-forehead-768.webp
 author: Osada Paranaliyanage
 description: What is burnout and how to avoid it
 theme: full
@@ -28,7 +28,7 @@ share:
 
 ## What is burnout?
 
-{{< figure src="burnout-head-down.jpg" alt="Burnout Profile" width="60%" >}}
+{{< figure src="burnout-head-down.webp" alt="Burnout Profile" width="60%" >}}
 
 You know the drill. It starts with a couple spillovers from your usual sprints. It snowballs in to a stream of issues and before you know it, you are at risk of missing a major deadline. You walk in to release planning meetings and your stomach falls out from underneath you. Your head feels tight and there is a ringing in your ears. Sleep doesn't come easy and when it does, it feels like cheating. After all you could be making progress on that one critical issue that you know will hold up the next sprint and will end up wasting the whole team's time.
 
@@ -66,7 +66,7 @@ Note that these all come down to issues in the workplace. This is why it makes s
 
 ## It won't happen to me
 
-{{< figure src="Top-7-Tips-to-Prevent-Burnout-as-a-Remote-Software-Developer--1024x683.jpg" >}}
+{{< figure src="Top-7-Tips-to-Prevent-Burnout-as-a-Remote-Software-Developer--1024x683.webp" >}}
 
 Most of us like to think that it won't happen to us. We like to believe we are singular, unbreakable and quite resilient. Specially when we are young, we tend to think that we can just keep going on and on and it will be ok. But know that none of us are infallible. We will all break down sometime and it is quite ok. It is ok to seek help and it is ok to accept help.
 
@@ -82,7 +82,7 @@ Dealing with burnout requires the “Three R” approach:
 
 ## How to avoid it
 
-{{< figure src="tips-to-avoid-burnout.jpg" >}}
+{{< figure src="tips-to-avoid-burnout.webp" >}}
 
 There are several guides online on how to avoid burnout, including the graphic above. But I chose to follow a set of points set forth by a Harvard Business Review article as follows.
 

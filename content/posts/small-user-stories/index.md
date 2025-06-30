@@ -2,7 +2,7 @@
 title: "Unleashing the Power of Small Stories: Strategies for Breaking Down Backend API User Stories"
 date: 2023-07-10 14:30:00
 draft: false
-image: "john-moeses-bauan-Oj-G9GYlLr0-unsplash.jpg"
+image: "john-moeses-bauan-Oj-G9GYlLr0-unsplash.webp"
 author: "Osada Paranaliyanage"
 description: "Explore the benefits of small stories and effective strategies for breaking down backend API user stories."
 theme: "full"
@@ -34,7 +34,7 @@ In the world of software development, breaking down requirements into smaller, m
 
 ## Advantages of Small Stories
 
-{{< figure src=markus-spiske-C0koz3G1I4I-unsplash.jpg attr="Photo by Markus Spiske" attrlink=https://unsplash.com/photos/C0koz3G1I4I?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText >}}
+{{< figure src=markus-spiske-C0koz3G1I4I-unsplash.webp attr="Photo by Markus Spiske" attrlink=https://unsplash.com/photos/C0koz3G1I4I?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText >}}
 
 Breaking down backend API user stories into smaller units brings several advantages to the development process:
 
@@ -78,7 +78,7 @@ These resources provide in-depth explanations and practical examples of how to a
 
 ## Breaking Down Backend API User Stories
 
-{{< figure src=elena-mozhvilo-hbJtngKksDo-unsplash.jpg attr="Photo by Elena Mozhvilo" attrlink=https://unsplash.com/photos/hbJtngKksDo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText >}}
+{{< figure src=elena-mozhvilo-hbJtngKksDo-unsplash.webp attr="Photo by Elena Mozhvilo" attrlink=https://unsplash.com/photos/hbJtngKksDo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText >}}
 
 When it comes to breaking down backend API user stories, a systematic approach is key. The journey begins by starting with the API interface. By utilizing techniques such as hardcoded or facaded backing, developers can quickly provide initial functionality and facilitate rapid prototyping. This early release of the API allows for valuable feedback and experimentation from client teams.
 
@@ -90,7 +90,7 @@ It is important to note that as user stories are broken down, the corresponding 
 
 To summarize this section let's try to draw what we have been talking about so far.
 
-{{< figure src=SlicingStoresDown.png title="How to Break Down Any Story to smaller parts" >}}
+{{< figure src=SlicingStoresDown.webp title="How to Break Down Any Story to smaller parts" >}}
 
 They key thing to note is that you are in charge what the Y axis denotes - customer type, client type, etc. You can choose whatever makes sense for you. Usually you will choose the option that has the largest possible number of values because that results in the work being sliced to the smallest size.
 

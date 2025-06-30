@@ -3,7 +3,7 @@ title: "Technical Tasks for Managers"
 date: 2024-12-22T16:18:00Z
 draft: false
 description: "What technical tasks should a manager do in a AI enabled world."
-image: "marvin-meyer-SYTO3xs06fU-unsplash.jpg"
+image: "marvin-meyer-SYTO3xs06fU-unsplash.webp"
 author: "Osada Paranaliyanage"
 theme: "full"
 tags: ["software engineering", "technical enablers", "engineering culture", "engineering leadership"]

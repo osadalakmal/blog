@@ -2,7 +2,7 @@
 title: "Review of 12 Factor Principles"
 date: 2022-07-17T16:38:17+0530
 draft: true
-image: saas-description.png
+image: saas-description.webp
 author: Osada Paranaliyanage
 description: What are the 12 factors of Good SAAs apps. How does ot sand today.
 theme: full

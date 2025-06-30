@@ -2,7 +2,7 @@
 title: "Compromises and Moving Forward"
 date: 2023-11-21T15:03:08Z
 draft: false
-image: "desola-lanre-ologun-IgUR1iX0mqM-unsplash.jpg"
+image: "desola-lanre-ologun-IgUR1iX0mqM-unsplash.webp"
 author: "Osada Paranaliyanage"
 description: "We talk about how to make compromises in a product development setting and move forward but maintain architectural oversight in the process"
 theme: "full"
@@ -109,7 +109,7 @@ I do kind of make it sound too easy in the above example as you can see. In the 
 
 Remember, debt is good if the use that you put that debt to is good. Mortgages allow you to live in a house now and pay later. But they are not good if you neglect the debt, do not service it and have no regard for the resulting architecture. You should always plan for and execute a refactoring strategy so you are not penalized in the long term for this technical debt. Remember - technical debt has an interest that you need to pay!
 
-{{< figure src="technical-debt.jpg" title="Technical Debt and the Interest Accrued" >}}
+{{< figure src="technical-debt.webp" title="Technical Debt and the Interest Accrued" >}}
 
 Make sure that this compromise is front and center in all discussions. It should be the basis of all discussions. Once you have done something similar, you would have built up some trust and comfort for this approach which you can reuse going forward. Once the team and stakeholders are comfortable with this approach, it becomes much easier to get people's buy-in by pointing to previous examples of good execution of this idea.
 
