@@ -1,8 +1,8 @@
-baseURL = "https://osadalakmal.github.io"
+baseURL = "https://osada.blog"
 languageCode = "en-gb"
 defaultContentLanguage = "en"
 author = "Osada Lakmal Paranaliyanage"
-title = "Curiously Recurring Thoughts in Programming"
+title = "Osada Blog – Thoughts on Software Engineering, Programming, Systems, and Life"
 
 [pagination]
 pagerSize = 10
@@ -29,12 +29,6 @@ version = "2.0.X"
 # Use homepage.md instead of a list of posts
 homepage = false
 
-# Add meta keywords in head part (Site Keywords or Tags of Page)
-keywords = ["programming", "coding", "osada", "lakmal"]
-
-# Add meta description in head part
-description = "Blog for personal coding adventures."
-
 # Add pagetitle to homepage <title> tag
 # pagetitle = "All about static site generation"
 
@@ -52,6 +46,16 @@ favicon = "/img/favicon.ico"
 
 # Add list of sections that should show up on the homepage
 mainSections = ["posts"]
+
+description = "Curiously recurring thoughts on software engineering, systems, leadership, and life."
+keywords = [
+	"programming",
+	"systems",
+	"osada",
+	"software engineering",
+	"fatherhood",
+]
+
 
 hidden = [""]
 
