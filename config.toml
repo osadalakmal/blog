@@ -3,11 +3,10 @@ languageCode = "en-gb"
 defaultContentLanguage = "en"
 author = "Osada Lakmal Paranaliyanage"
 title = "Osada Blog – Thoughts on Software Engineering, Programming, Systems, and Life"
+enableRobotsTXT = true
 
 [pagination]
 pagerSize = 10
-
-enableRobotsTXT = true
 
 pygmentsstyle = "colorful"
 pygmentscodefences = true

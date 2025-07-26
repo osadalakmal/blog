@@ -1,8 +1,8 @@
-{{- with .Site.Params.robots -}}
+{{- with .Site.Params.robots }}
 {{ . | safeHTML }}
-{{- else -}}
+{{- else }}
 User-agent: *
 Allow: /
 
-Sitemap: {{ "sitemap.xml" | absURL }}
-{{- end -}}
+Sitemap: {{ .Site.BaseURL | relURL | replaceRE "/$" "" }}/sitemap.xml
+{{- end }}
