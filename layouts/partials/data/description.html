@@ -1,0 +1,4 @@
+{{ if .IsHome }} Curiously recurring thoughts on software engineering, systems,
+leadership, and life. {{ else if .Params.description }} {{ .Params.description
+}} {{ else if .Site.Params.description }} {{ .Site.Params.description }} {{ end
+}}
