@@ -1,4 +1,8 @@
-{{ if .IsHome }}
+{{ if eq .Kind "taxonomy" }}
+<meta name="robots" content="noindex, follow" />
+{{ else if eq .Kind "taxonomyTerm" }}
+<meta name="robots" content="noindex, follow" />
+{{ else if eq .Kind "home" }}
 <meta name="robots" content="index, follow" />
 <script type="application/ld+json">
   {
