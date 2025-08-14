@@ -1,7 +1,7 @@
 ---
 title: "Programming's New Frontier: The Rise of LLM-First Languages"
 date: 2025-08-14T20:16:03+01:00
-draft: true
+draft: false
 image: "designed.webp"
 author: "Osada Paranaliyanage"
 description: "Exploring the rise of programming languages designed for LLMs, why now is the tipping point, and how challenges like hallucinated dependencies, logic errors, test manipulation, and context limitations are shaping this next wave of language design."
