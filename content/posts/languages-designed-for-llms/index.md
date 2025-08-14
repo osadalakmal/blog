@@ -33,8 +33,6 @@ share:
   enable: true
 ---
 
-# Programming's New Frontier: The Rise of LLM-First Languages.
-
 Large Language Models (LLMs) have quickly become an integral part of modern software development. Today, most developers encounter them as coding assistants-tools that can generate code on demand by drawing upon patterns learned from vast quantities of open-source and proprietary code. These models can also reference online resources and produce functioning code in seconds.
 
 But as impressive as they are, this process is far from foolproof.
