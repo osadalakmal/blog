@@ -57,3 +57,5 @@ I wonder how this is going to go for people.
 - What is going to be our incentive? Money can only motivate people so much, as research has shown.
 
 I don't know what's going to happen, but it's fascinating to think about.
+
+Photo by [Alejandro Hikari](https://unsplash.com/@kareraisu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/a-young-boy-playing-a-video-game-on-a-nintendo-wii-iwx02E7KCe8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
