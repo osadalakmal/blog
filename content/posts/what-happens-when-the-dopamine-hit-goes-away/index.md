@@ -2,6 +2,7 @@
 title: "What Happens When the Dopamine Hit Goes Away?"
 date: 2026-11-02T13:55:00Z
 draft: false
+image: "dopamine.webp"
 author: "Osada Paranaliyanage"
 description: "Many of us came to tech for the satisfaction of getting things working. What happens to the field when LLMs and agentic AI take that away?"
 theme: "full"
