@@ -44,7 +44,7 @@ There were extrinsic motivators for sure. It paid well. It's a good job. We got 
 
 ## What LLMs and agentic AI change
 
-With LLMs, that is going away. With agentic AI and whatnot, there is no skill trophy anymore. The skill side of this is fine to worry about, and it needs to be a concern we talk about. But the conversation about what losing this intrinsic motivator will do to people seems to get buried under the mountain of other things we're talking about.
+With LLMs, that is going away. With agentic AI and whatnot, there's your skill atrophy and all that. That's fine to worry about, and it needs to be a concern we talk about. But the conversation about what losing this intrinsic motivator will do to people seems to get buried under the mountain of other things we're talking about.
 
 ## The questions I keep coming back to
 
